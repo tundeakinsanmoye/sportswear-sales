@@ -10,5 +10,5 @@ function item() {
     countEl.textContent = count
 }
 function purchase() {
-    soldParagraph.textContent = "Payment received! Thank you"
+    soldParagraph.textContent = "Payment received! Thank you, bye."
 }
